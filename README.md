@@ -28,8 +28,8 @@ Latent Diffusion Models operate in the **latent space** (instead of pixel space)
 ## 📁 ScreenShot
 
 <p align="center">
-  <img src="s3.png" alt="LDM Architecture" width="500"/>
+  <img src="Screenshot 2024-12-26 123100.png" alt="LDM" width="500"/>
 </p>
 <p align="center">
-  <img src="s3.png" alt="LDM Architecture" width="500"/>
+  <img src="Screenshot 2025-04-27 115311.png" alt="webapp" width="500"/>
 </p>
