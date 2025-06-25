@@ -1,6 +1,6 @@
 # 🖼️ Text-to-Image Synthesis using Latent Diffusion Models (LDM)
 
-This project implements a **Generative AI pipeline** that synthesizes high-resolution images from text prompts using a **Latent Diffusion Model (LDM)**. The system integrates a pre-trained autoencoder, cross-attention U-Net, and CLIP-based text encoder to generate visually realistic images conditioned on natural language inputs.
+This project implements a **Generative AI pipeline** that synthesizes high-resolution images from text prompts using a **Latent Diffusion Model (LDM)**. The system integrates a pre-trained autoencoder, cross-attention U-Net, and CLIP-based text encoder to generate visually realistic images conditioned on natural language inputs. This project has code to train your LDM model from scratch on MS-COCO or Flickr-30k dataset, you just need 24 GB GPU for training purpose.
 
 ## 🧠 What is LDM?
 
